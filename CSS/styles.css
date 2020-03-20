@@ -4,13 +4,15 @@
 }
 
 #why {
-  background-color: lightseagreen!important;
-  height: 150px;
+  background-image: url(https://images.pexels.com/photos/92904/pexels-photo-92904.jpeg?cs=srgb&dl=macbook-pro-92904.jpg&fm=jpg);
+  height: 300px;
+  background-size: contain;
 }
 
 #education {
-  background-color: lightsalmon!important;
-  height: 150px;
+  background-image: url(https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?cs=srgb&dl=accomplishment-ceremony-education-graduation-267885.jpg&fm=jpg);
+  height: 300px;
+  background-size: contain;
 }
 
 .panel {
