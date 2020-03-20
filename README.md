@@ -1,6 +1,6 @@
 # _Spencers Portfolio_
 
-#### _First solo website created at Epicodus      Programming Course, 3.19.2020_
+#### _First solo website created at Epicodus      Programming Course, 3.20.2020_
 
 #### By _**Spencer Moody**_
 
