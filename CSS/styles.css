@@ -6,6 +6,19 @@
   text-align: center;
 }
 
+
+}
+
 .jumbotron {
   padding-bottom: 10px;
+}
+
+#home {
+  text-align: center;
+
+}
+
+#header {
+  margin-top: 100px;
+  margin-bottom: 30px;
 }
