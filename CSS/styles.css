@@ -7,8 +7,6 @@
 }
 
 
-}
-
 .jumbotron {
   padding-bottom: 10px;
 }
@@ -18,8 +16,45 @@
 
 }
 
-#header {
-  margin-top: 100px;
+#head {
+  margin-top: 50px;
   margin-bottom: 100px;
-  background-color: bisque;
+
+}
+
+#about-head {
+  background-color: lightsalmon;
+  height: 100px;
+  text-align: left;
+  padding-right: 50px;
+}
+
+.about-box {
+  padding: 10px;
+  padding-bottom: 10%;
+  min-height: 200px;
+  border: 0;
+}
+
+#about-body {
+  font-size: 20px;
+}
+
+#about-likes {
+  background-color: lightseagreen;
+  height: 100px;
+  text-align: right;
+  padding-right: 50px;
+}
+
+#project1 {
+  background-color: lightsalmon!important;
+}
+
+#project2 {
+  background-color: lightsteelblue!important;
+}
+
+#project3 {
+  background-color: lightseagreen!important;
 }
