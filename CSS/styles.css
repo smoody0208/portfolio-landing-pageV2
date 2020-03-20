@@ -1,3 +1,34 @@
+#job {
+  background-color: lightsteelblue!important;
+  height: 150px
+}
+
+#why {
+  background-color: lightseagreen!important;
+  height: 150px;
+}
+
+#education {
+  background-color: lightsalmon!important;
+  height: 150px;
+}
+
+.panel {
+  background-color: white;
+  border: 0;
+}
+
+.panel-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 25px;
+  color: black;
+}
+
+.homepage {
+
+}
+
 .jumbotron h1 {
   text-align: center;
 }
