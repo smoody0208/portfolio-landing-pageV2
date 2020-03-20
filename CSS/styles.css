@@ -7,12 +7,14 @@
   background-image: url(https://images.pexels.com/photos/92904/pexels-photo-92904.jpeg?cs=srgb&dl=macbook-pro-92904.jpg&fm=jpg);
   height: 300px;
   background-size: contain;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #education {
   background-image: url(https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?cs=srgb&dl=accomplishment-ceremony-education-graduation-267885.jpg&fm=jpg);
   height: 300px;
   background-size: contain;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .panel {
@@ -56,10 +58,12 @@
 }
 
 #about-head {
-  background-color: lightsalmon;
-  height: 100px;
+  background-image: url(https://images.pexels.com/photos/1438884/pexels-photo-1438884.jpeg?cs=srgb&dl=concrete-bridge-1438884.jpg&fm=jpg);
+  height: 300px;
   text-align: left;
   padding-right: 50px;
+  background-size: contain;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .about-box {
@@ -74,10 +78,13 @@
 }
 
 #about-likes {
-  background-color: lightseagreen;
-  height: 100px;
+  background-image: url(https://images.pexels.com/photos/1903935/pexels-photo-1903935.jpeg?cs=srgb&dl=man-sitting-under-cable-car-1903935.jpg&fm=jpg);
+  height: 300px;
   text-align: right;
   padding-right: 50px;
+  background-size: contain;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
 #project1 {
