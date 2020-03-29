@@ -1,6 +1,5 @@
 # _Spencers Portfolio_
 
-https://github.com/smoody0208/portfolio-landing-pageV2.git
 
 #### _First solo website created at Epicodus      Programming Course, 3.20.2020_
 
@@ -15,6 +14,8 @@ _This is a portfolio webpage that I created as my first solo project. There is a
 * _Clone Repository in GitHub_
 * _Open Index.html in Virtual Studio Code (or your text editor of choice)_
 * _Create your own repository & push new changes to GitHub_
+
+_You may also visit https://smoody0208.github.io/portfolio-landing-pageV2/ to view the webpage._
 
 ## Known Bugs
 
